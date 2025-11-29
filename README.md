@@ -1,1 +1,1 @@
-![logo](assets/Sleepwriting%20logo.png)
+![logo](Sleepwriting%20logo.png)
