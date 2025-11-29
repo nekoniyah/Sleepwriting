@@ -1,1 +1,1 @@
-![Sleepwriting logo.png](Sleepwriting)
+![Sleepwriting Logo](./assets/Sleepwriting logo.png)
